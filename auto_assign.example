@@ -1,0 +1,7 @@
+# A list of reviewers, overrides reviewers if set
+reviewers:
+  - addievandenheuvel
+  - adelerhof
+  - dimitriars
+  - jeromba6
+  - SanderHuijbers
